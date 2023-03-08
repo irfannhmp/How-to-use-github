@@ -1,0 +1,12 @@
+This is First Repo text file 
+
+first of all configure github user
+git config --global.user.name "irfannhmp"
+git config --global.user.email "irfannhmp@gmail.com"
+
+
+git add (file name)
+git add *
+git commit -m "my commit message"
+git push
+
